@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Pengantar Teknologi Informasi
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Semester Ganjil 2024-2025
+Politeknik Keuangan Negara STAN
+- Reza Rizky Pratama
 
-## Commands
+## Rencana Pembelajaran
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Rencana Pembelajaran Semester](uploads/RPS_Sem_1_24-25_Pengantar Teknologi Informasi.pdf)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Jadwal Pembelajaran
