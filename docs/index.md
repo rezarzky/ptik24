@@ -4,7 +4,7 @@ Semester Ganjil 2024-2025
 Politeknik Keuangan Negara STAN
 
 **Dosen**  
-Reza Rizky Pratama  
+[Reza Rizky Pratama](rezarzky.github.io)
 [rezarzky@gmail.com](mailto:rezarzky@gmail.com)
 
 ## Rencana Pembelajaran
