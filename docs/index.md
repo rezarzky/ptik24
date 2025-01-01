@@ -24,7 +24,7 @@ Politeknik Keuangan Negara STAN
 | 5 | Spreedsheet I | [Pengenalan Excel](uploads/w5/PengenalanExcel.pptx) | [Aktivitas](uploads/w5/AktivitasExcel1.xlsx) </br> [Nilai Mahasiswa](uploads/w5/TugasExcel1.xlsx) | [Pengumpulan Tugas V](https://forms.gle/VHeGm5HNwByTzsWz5) Due: Rabu, 20.11.2024 17.00 WIB |
 | 6 | Spreedsheet II |  |   |
 | 7 - 8 |   Ujian Tengah Semester 1   | [PRAKTIKUM KELAS 1-5](https://forms.gle/hd19tYyPyHxFewBV6) | [PRAKTIKUM KELAS 1-6](https://forms.gle/xSfepdPLAjcoLs2Y6) |
-| 9 - 10 | Basis Data | [Materi](uploads/w8/Pengolahan_data_menggunakan_MySQL.pptx)   |  [Program Windows](uploads/w8/docs/uploads/w8/WindowsSQLPortable.zip) , [Panduan MacOS](uploads/w8/docs/uploads/w8/SQLMacOS.pptx), [Data](uploads/w8/docs/uploads/w8/DumpData.zip), [Materi Reza](uploads/w8/docs/uploads/w8/intro_to_sql.pptx)  | [Referensi Video](https://www.youtube.com/live/G-QKrJrG_d4?si=VrrDuPeM4PfQhaA4)   |
+| 9 - 10 | Basis Data | [Materi](uploads/w8/Pengolahan_data_menggunakan_MySQL.pptx)   |  [Program Windows](uploads/w8/WindowsSQLPortable.zip) , [Panduan MacOS](uploads/w8/SQLMacOS.pptx), [Data](uploads/w8/DumpData.zip), [Materi Reza](uploads/w8/intro_to_sql.pptx)  | [Referensi Video](https://www.youtube.com/live/G-QKrJrG_d4?si=VrrDuPeM4PfQhaA4)   |
 | 11    |   Visualisasi Data |  |   |
 | 12-13 |   Emerging Technology |   |    |
 | 14-15 |   Introduction to Python |   |    |
