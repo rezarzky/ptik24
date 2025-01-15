@@ -25,7 +25,7 @@ Politeknik Keuangan Negara STAN
 | 6 | Spreedsheet II |  |   |
 | 7 - 8 |   Ujian Tengah Semester 1   | [PRAKTIKUM KELAS 1-5](https://forms.gle/hd19tYyPyHxFewBV6) | [PRAKTIKUM KELAS 1-6](https://forms.gle/xSfepdPLAjcoLs2Y6) |
 | 9 - 10 | Basis Data | [Materi](uploads/w8/Pengolahan_data_menggunakan_MySQL.pptx)   |  [Program Windows](uploads/w8/WindowsSQLPortable.zip) , [Panduan MacOS](uploads/w8/SQLMacOS.pptx), [Data](uploads/w8/DumpData.zip), [Materi Reza](uploads/w8/intro_to_sql2.pptx)  | [Referensi Video](https://www.youtube.com/live/G-QKrJrG_d4?si=VrrDuPeM4PfQhaA4), [LATIHAN SOAL 1](uploads/w8/Latihan_Soal_Basic_Query.docx), [TUGAS SQL](uploads/w8/Soal_SQL.docx), [Template SQL Tugas](uploads/w8/NPM.sql), [PENGUMPULAN TUGAS](https://forms.gle/oY8mjMvaSino6fZW9) |
-| 11    |   Visualisasi Data | [Materi Dosen Koordinator](uploads/w10/Modul11VisualisasiData.zip)  |  Slide: [Powerpoint](docs/uploads/w10/DataVisualization_Shared.pptx) , Data: [Kelompok](docs/uploads/w10/AktivitasDataViz.xlsx) , [Individu](docs/uploads/w10/Data_Latihan.xlsx)   |
+| 11    |   Visualisasi Data | [Materi Dosen Koordinator](uploads/w10/Modul11VisualisasiData.zip)  |  Slide: [Powerpoint](uploads/w10/DataVisualization_Shared.pptx) , Data: [Kelompok](uploads/w10/AktivitasDataViz.xlsx) , [Individu](uploads/w10/Data_Latihan.xlsx)   |
 | 12-13 |   Emerging Technology |   |    |
 | 14-15 |   Introduction to Python |   |    |
 | 16 |   Ujian Akhir Semester    |
